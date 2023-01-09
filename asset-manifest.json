@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/studyReact/static/js/main.9fff176d.js",
+    "main.js": "/studyReact/static/js/main.cab0b34c.js",
     "index.html": "/studyReact/index.html",
-    "main.9fff176d.js.map": "/studyReact/static/js/main.9fff176d.js.map"
+    "main.cab0b34c.js.map": "/studyReact/static/js/main.cab0b34c.js.map"
   },
   "entrypoints": [
-    "static/js/main.9fff176d.js"
+    "static/js/main.cab0b34c.js"
   ]
 }
